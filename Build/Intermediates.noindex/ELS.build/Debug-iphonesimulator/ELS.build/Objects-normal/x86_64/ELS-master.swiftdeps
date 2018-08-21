@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "236dca69d00a50f916b8121f7793908a"
+build_time: [1534831964, 877563000]
+inputs:
+  "/Users/leduy/Desktop/ELS/ELS/ViewController.swift": [1534831959, 0]
+  "/Users/leduy/Desktop/ELS/ELS/AppDelegate.swift": [1534831959, 0]
